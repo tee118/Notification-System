@@ -56,6 +56,6 @@ This project develops a system that observes an S3 Bucket for newly uploaded fil
 
 This system effectively monitors file uploads to an S3 bucket, providing timely notifications for further processing or action.
 
-Read more at: https://teebaba.hashnode.dev/file-upload-notification-system
+[Read more](https://teebaba.hashnode.dev/file-upload-notification-system)
 
 ---
